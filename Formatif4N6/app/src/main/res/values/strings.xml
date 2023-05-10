@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formatif4N6</string>
+    <string name="gestion_name">Erreur Erreur Erreur</string>
+    <string name="maintitle">Traductions</string>
+    <string name="buttonRoche">Roche</string>
+    <string name="buttonCiseaux">Ciseaux</string>
+    <string name="buttonPapier">Papier</string>
+    <string name="rose">Rose</string>
+</resources>

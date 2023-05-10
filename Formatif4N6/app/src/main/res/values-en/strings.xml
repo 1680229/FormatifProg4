@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formatif4N6</string>
+    <string name="gestion_name">Erreur Erreur Erreur</string>
+    <string name="maintitle">Translations</string>
+    <string name="buttonRoche">Rock</string>
+    <string name="buttonCiseaux">Cisors</string>
+    <string name="buttonPapier">Paper</string>
+    <string name="rose">Pink</string>
+</resources>
